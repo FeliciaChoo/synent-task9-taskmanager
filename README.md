@@ -1,4 +1,5 @@
-# synent-task9-taskmanager-chooenyi
+# synent-task9-taskmanager
+
 Full Stack Task Manager Web App built with Flask and SQLite
 # Task 9: Full Stack Task Manager (Flask & SQLite)
 
